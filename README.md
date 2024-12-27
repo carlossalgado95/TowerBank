@@ -2,13 +2,13 @@
 Projeto de Análise de Crédito
 
 <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/TowerBankLog.png" min-width="300px" max-width="200px" width="750px" > 
+<img src="" min-width="300px" max-width="200px" width="750px" > 
 </p>
 <p align= "center">
 Aqui seu sonho é nossa torre, o nosso norte.
 </p>
 <p align= "center">
-Para acessar o App <a href="https://share.streamlit.io/juniortorresmtj/towerbank/main/simulador_avaliacao_credito.py">Clique Aqui</a>
+
 </p>
  
 
@@ -75,10 +75,7 @@ O projeto foi dividido em 4 partes:
 ***
 
 
-<p align="center"> <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/Jr_Rosa.png" />
-  </a>
- </p>
+
 
  <p align="center">
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
@@ -100,7 +97,5 @@ O projeto foi dividido em 4 partes:
 ### **FONTES** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 
- <img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Kaggle: [Link](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
 
-<img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Dados: [Github](https://github.com/JuniorTorresMTJ/TowerBank/tree/main/dados)
  
